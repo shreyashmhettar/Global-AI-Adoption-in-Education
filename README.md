@@ -1,85 +1,58 @@
 # Global AI Adoption in Education
 
-## Global AI Adoption in Education: A Comprehensive Global Performance Intelligence Report
+## Project Overview
 
-### Project Overview
+This project analyzes the adoption and usage of Artificial Intelligence in the education sector across different countries and regions.
 
-This project analyzes the adoption and usage of Artificial Intelligence in the education sector across different countries and years.
+The project uses Tableau to transform the dataset into interactive dashboards and visualizations covering student and teacher AI usage, school AI adoption, rural and urban usage, leading AI tools, average daily AI usage, and adoption trends over time.
 
-The project uses Tableau to transform the dataset into interactive dashboards that provide insights into AI adoption, student and teacher usage, geographical trends, AI tools, and rural-urban differences.
+## Dataset
 
-### Objectives
+- Dataset: Global AI in Education
+- Records: 1,360
+- Attributes: 16
+- Time Period: 2015–2026
+- Format: CSV
 
-- Analyze global AI adoption in education.
-- Compare AI usage across different countries.
-- Study student and teacher AI usage.
-- Compare leading AI tools used in education.
-- Analyze rural and urban AI usage.
-- Identify trends in AI adoption over time.
-- Present the findings through interactive Tableau dashboards.
+## Tools & Technologies
 
-### Technology Used
-
-- Tableau Public
-- Microsoft Excel / CSV
-- Data Visualization
-- Data Analysis
+- Tableau
+- Microsoft Excel
 - GitHub
+- Tableau Public
 
-### Dataset
+## Key Analysis
 
-The dataset contains information related to:
-
-- Country
-- Year
-- AI adoption in schools
-- Student AI usage
-- Teacher AI usage
-- Rural AI usage
-- Urban AI usage
-- AI tools
-- AI adoption levels
-
-### Dashboards
-
-#### Dashboard 1 — Global AI in Education
-
-The first dashboard presents:
-
-- Geographical trends in educational development
-- AI adoption level breakdown
-- Comparison of leading AI tools
-- AI adoption journey over time
-- Country filter
-
-#### Dashboard 2 — Global AI Usage & Regional Analysis
-
-The second dashboard presents:
-
+- Global AI adoption levels
+- Student vs Teacher AI usage
 - Average daily AI usage by country
-- Student vs. teacher AI usage
-- Comparison of leading AI tools
-- Rural vs. urban AI usage growth
-- Country and year filters
+- Leading AI tools
+- Rural vs Urban AI usage
+- Regional school AI adoption
+- Year-wise AI adoption trends
+- Country-wise geographical analysis
 
-### Project Structure
+## Project Links
+
+### Tableau Public Dashboard
+https://public.tableau.com/app/profile/shreyash.mhettar/vizzes
+
+### Tableau Public Story
+https://public.tableau.com/app/profile/shreyash.mhettar/vizzes
+
+### Project Demo Video
+https://drive.google.com/file/d/13DL-v66K02CsmnFQSCrENYRTjo9zfz3T/view?usp=drive_link
+
+## Project Report
+
+The complete project report is available in the `Documentation` folder.
+
+## Repository Structure
 
 ```text
-Global-AI-Adoption-in-Education/
-│
-├── Dataset/
-│   └── Global AI in Education.csv
-│
-├── Documentation/
-│   └── Final Project Report.docx
-│
-├── Images/
-│   ├── Dashboard1.png
-│   ├── Dashboard2.png
-│   └── ...
-│
-├── Reports/
-│   └── Project Reports
-│
-└── Tableau/
-    └── tableau Project.twbx
+Dataset/
+Documentation/
+Images/
+Reports/
+Tableau/
+README.md
